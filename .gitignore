@@ -1,1 +1,3 @@
 https://github.com/Reptilianlord/myrepository.orb.git
+circleci orb init /path/to/myProject-orb --private
+circleci orb init /path/to/myProject-orb --private
